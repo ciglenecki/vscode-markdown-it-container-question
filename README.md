@@ -1,8 +1,8 @@
-# markdown-it-container-question README
+# markdown-it-container-question
 
 ## What is this?
 
-**HARDCODED** VSCode extension that creates a following syntax in Markdown:
+VSCode extension that allows parsing of the following syntax in Markdown:
 
 ```
 ::: q What's your question?
@@ -10,7 +10,7 @@ this is hidden, collapsable content.
 :::
 ```
 
-and produces the infamous HTML snippet:
+and produces the infamous HTML snippet often used in Markdown:
 
 ```html
 <details>
